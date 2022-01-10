@@ -8,5 +8,5 @@ How to run the experiments for 100 programs:
 The Jupyter notebook `plot.ipynb` can be used to plot the results.
 
 Requirements: 
-* Python 3 (along with libraries such as `numpy`, `pandas` and `scipy`)
+* Python 3 (along with libraries such as `numpy`, `pandas` and `scipy` for running the Jupyter notebook)
 * `hyperfine` tool
